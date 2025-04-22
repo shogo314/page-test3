@@ -36,11 +36,151 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/dsu/"/>
     </url>
     <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/fenwicktree/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/fenwicktree/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/fenwicktree/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/io/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/io/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/io/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/lazysegtree/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/lazysegtree/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/lazysegtree/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/math/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/math/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/math/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/maxflow/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/maxflow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/maxflow/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/method_traits/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/method_traits/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/method_traits/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/mincostflow/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/mincostflow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/mincostflow/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/modint/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/modint/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/modint/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/scc/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/scc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/scc/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/segtree/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/segtree/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/segtree/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/string/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/string/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/string/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/twosat/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/twosat/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/twosat/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/ext/affine/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/ext/affine/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/ext/affine/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/ext/avltree/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/ext/avltree/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/ext/avltree/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/ext/dualsegtree/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/ext/dualsegtree/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/ext/dualsegtree/"/>
+    </url>
+    <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/ext/interval_heap/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/ext/interval_heap/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/ext/interval_heap/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/ext/knapsack/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/ext/knapsack/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/ext/knapsack/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/ext/longest_increasing_subsequence/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/ext/longest_increasing_subsequence/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/ext/longest_increasing_subsequence/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/ext/potentialized_unionfind/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/ext/potentialized_unionfind/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/ext/potentialized_unionfind/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/ext/priority_queue/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/ext/priority_queue/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/ext/priority_queue/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/ext/string/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/ext/string/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/ext/string/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/contribute/</loc>
@@ -82,90 +222,105 @@
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/fenwicktree/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/fenwicktree/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/io/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/io/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/io/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/lazysegtree/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/lazysegtree/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/lazysegtree/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/math/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/math/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/math/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/maxflow/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/maxflow/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/maxflow/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/method_traits/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/method_traits/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/method_traits/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/mincostflow/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/mincostflow/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/mincostflow/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/modint/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/modint/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/modint/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/scc/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/scc/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/scc/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/segtree/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/segtree/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/segtree/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/string/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/string/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/string/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/twosat/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/twosat/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/twosat/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/ext/affine/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/ext/affine/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/ext/affine/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/ext/avltree/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/ext/avltree/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/ext/avltree/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/ext/dualsegtree/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/ext/dualsegtree/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/ext/dualsegtree/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/ext/interval_heap/</loc>
@@ -179,30 +334,35 @@
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/ext/knapsack/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/ext/knapsack/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/ext/longest_increasing_subsequence/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/ext/longest_increasing_subsequence/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/ext/longest_increasing_subsequence/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/ext/potentialized_unionfind/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/ext/potentialized_unionfind/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/ext/potentialized_unionfind/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/ext/priority_queue/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/ext/priority_queue/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/ext/priority_queue/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/ext/string/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/ext/string/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/ext/string/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/py/bisect/</loc>
