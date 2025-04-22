@@ -1,3 +1,4 @@
-# Mojo Library Docs
-このドキュメントはまだ整備されていません。
-`v2.0-dev`
+# ac-library-mojo Docs
+
+`v1.0` は開発中です。
+

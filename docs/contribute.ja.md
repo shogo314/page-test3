@@ -21,17 +21,5 @@ oj-verify run
 ## ドキュメント
 
 [MkDocs](https://www.mkdocs.org/) を使っています。
+GitHub Actionsで自動化しているので `docs` を編集するだけでよいです。
 
-### インストール
-
-```
-pip3 install mkdocs mkdocs-material mkdocs-static-i18n mike
-```
-
-### ドキュメントの作成
-
-```
-mike deploy [version]
-```
-
-`--push` をつけると `git push` までやってくれます。

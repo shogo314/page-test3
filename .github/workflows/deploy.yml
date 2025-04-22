@@ -34,4 +34,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          mike deploy "${{ steps.get_version.outputs.VERSION }}" latest --push
+          mike deploy "${{ steps.get_version.outputs.VERSION }}" --push

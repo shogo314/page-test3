@@ -1,3 +1,7 @@
+# Document
+
+https://shogo314.github.io/page-test3/
+
 ### note
 ```
 mike deploy v2.0-dev --push
