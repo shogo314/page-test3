@@ -1,5 +1,35 @@
 # ac-library-mojo
 
-[README in Japanese](README_JP.md)
+[![License: CC0-1.0 OR Apache-2.0](https://img.shields.io/badge/license-CC0--1.0%20OR%20Apache--2.0-blue.svg)](./LICENSE)
 
-[README in Endglish](README_EN.md)
+---
+
+## 📦 Overview
+
+**ac-library-mojo** is a Mojo port of [AtCoder's ac-library](https://github.com/atcoder/ac-library), a high-performance algorithm library designed for competitive programming.
+
+**ac-library-mojo** は [AtCoderの ac-library](https://github.com/atcoder/ac-library) を Mojo 言語で移植したプロジェクトです。高速で信頼性の高いアルゴリズムを Mojo で使いたい人向けのライブラリです。
+
+---
+
+## 🤝 Contributing
+We welcome contributions!
+貢献していただける方は、以下のガイドをご参照ください：
+
+日本語ガイド 👉 [CONTRIBUTING.md](CONTRIBUTING.md)
+
+English Guide 👉 [CONTRIBUTING_EN.md](CONTRIBUTING_EN.md)
+
+簡単な修正・Issueの提案・新機能の追加など、どんな貢献も歓迎します！
+
+## 📄 License
+
+This project is dual-licensed under:
+
+- [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0)
+
+- [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+You may choose either license when using this project.
+
+このプロジェクトは `CC0-1.0` または `Apache-2.0` のデュアルライセンスです。どちらか一方を選んでご利用いただけます。

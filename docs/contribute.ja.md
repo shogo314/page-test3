@@ -2,8 +2,6 @@
 
 このページは開発中です。
 
-詳しくは[こちら](https://shogo314.github.io/page-test3/latest/contribute/)をご覧ください
-
 ## ライブラリ
 
 [online-judge-tools/verification-helper](https://github.com/online-judge-tools/verification-helper) を使ってテストしています。
