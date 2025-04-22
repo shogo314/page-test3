@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/contribute/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/contribute/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/contribute/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/en/contribute/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/contribute/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betacontribute/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/en/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta"/>
+    </url>
+</urlset>
