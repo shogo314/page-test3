@@ -2,13 +2,15 @@
 
 [![License: CC0-1.0 OR Apache-2.0](https://img.shields.io/badge/license-CC0--1.0%20OR%20Apache--2.0-blue.svg)](./LICENSE)
 
+[Home Page](https://shogo314.github.io/page-test3/)
+
 ---
 
 ## 📦 Overview
 
 **ac-library-mojo** is a Mojo port of [AtCoder's ac-library](https://github.com/atcoder/ac-library), a high-performance algorithm library designed for competitive programming.
 
-**ac-library-mojo** は [AtCoderの ac-library](https://github.com/atcoder/ac-library) を Mojo 言語で移植したプロジェクトです。高速で信頼性の高いアルゴリズムを Mojo で使いたい人向けのライブラリです。
+**ac-library-mojo** は [AtCoderの ac-library](https://github.com/atcoder/ac-library) を Mojo 言語で移植したもので、競技プログラミング向けに設計された高性能なアルゴリズムライブラリです。
 
 ---
 

@@ -19,7 +19,9 @@ extra:
 nav:
   - ホーム: index.md
   - コントリビュート: contribute.md
-
+  - モジュール:
+    - convolution: modules/convolution.md
+  - ライセンス: license.md
 plugins:
   - search:
   - i18n:
@@ -35,3 +37,5 @@ plugins:
           nav_translations:
             ホーム: Home
             コントリビュート: Contribute
+            モジュール: Modules
+            ライセンス: License
