@@ -35,3 +35,11 @@ This project is dual-licensed under:
 You may choose either license when using this project.
 
 このプロジェクトは `CC0-1.0` または `Apache-2.0` のデュアルライセンスです。どちらか一方を選んでご利用いただけます。
+
+## 📬 Contact
+
+Feel free to reach out if you have any questions, suggestions, or just want to chat!
+
+ご質問・提案・雑談など、気軽にご連絡ください！
+
+- 💬 Discord: [Join our Discord server](https://discord.gg/wGWCT3Tp7h)
