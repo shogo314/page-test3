@@ -1,0 +1,37 @@
+site_name: ac-library-mojo Docs
+docs_dir: docs
+site_dir: site
+site_url: https://shogo314.github.io/page-test2/
+repo_url: https://github.com/shogo314/page-test2
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.expand
+    - version-selector
+
+extra:
+  version:
+    provider: mike
+
+nav:
+  - ホーム: index.md
+  - コントリビュート: contribute.md
+
+plugins:
+  - search:
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: ja
+          name: 日本語
+          default: true
+          build: true
+        - locale: en
+          name: English
+          build: true
+          nav_translations:
+            ホーム: Home
+            コントリビュート: Contribute
