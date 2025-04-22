@@ -1,6 +1,6 @@
 # Contributing
 
-This page is under development.
+For more details, please see [here](https://shogo314.github.io/page-test3/latest/en/contribute/).
 
 ## Library
 

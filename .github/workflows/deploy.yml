@@ -40,4 +40,5 @@ jobs:
 
           if [ "${{ steps.version.outputs.SET_DEFAULT }}" = "true" ]; then
             mike set-default "${{ steps.version.outputs.VERSION }}" --push
+            mike link "${{ steps.version.outputs.VERSION }}" latest --push
           fi

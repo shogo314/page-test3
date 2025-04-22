@@ -1,7 +1,5 @@
 # コントリビュート
 
-このページは開発中です。
-
 詳しくは[こちら](https://shogo314.github.io/page-test3/latest/contribute/)をご覧ください
 
 ## ライブラリ
@@ -26,3 +24,4 @@ oj-verify run
 
 [MkDocs](https://www.mkdocs.org/) を使っています。
 GitHub Actionsで自動化しているので `docs` を編集するだけでよいです。
+
