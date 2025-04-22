@@ -15,6 +15,20 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/"/>
     </url>
     <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/license/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/license/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/license/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/convolution/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/convolution/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/convolution/"/>
+    </url>
+    <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/contribute/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
@@ -27,5 +41,19 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/en/license/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/license/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betalicense/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/convolution/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/convolution/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/convolution/"/>
     </url>
 </urlset>
