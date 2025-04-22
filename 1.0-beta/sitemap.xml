@@ -183,6 +183,48 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/ext/string/"/>
     </url>
     <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/py/bisect/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/py/bisect/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/py/bisect/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/py/heapq/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/py/heapq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/py/heapq/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/py/itertools/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/py/itertools/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/py/itertools/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/py/math/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/py/math/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/py/math/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/py/operator/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/py/operator/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/py/operator/"/>
+    </url>
+    <url>
+        <loc>https://shogo314.github.io/page-test3/1.0-beta/modules/py/string/</loc>
+        <lastmod>2025-04-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-beta/modules/py/string/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-betaen/modules/py/string/"/>
+    </url>
+    <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/contribute/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
@@ -369,35 +411,41 @@
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/py/bisect/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/py/bisect/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/py/heapq/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/py/heapq/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/py/heapq/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/py/itertools/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/py/itertools/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/py/itertools/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/py/math/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/py/math/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/py/math/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/py/operator/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/py/operator/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/py/operator/"/>
     </url>
     <url>
         <loc>https://shogo314.github.io/page-test3/1.0-beta/en/modules/py/string/</loc>
         <lastmod>2025-04-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://shogo314.github.io/page-test3/1.0-beta/en/modules/py/string/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://shogo314.github.io/page-test3/1.0-betamodules/py/string/"/>
     </url>
 </urlset>
