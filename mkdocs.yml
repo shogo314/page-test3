@@ -51,6 +51,7 @@ nav:
       - string: modules/ext/string.md
   - コントリビュート: contribute.md
   - ライセンス: license.md
+
 plugins:
   - search:
   - i18n:
@@ -65,6 +66,6 @@ plugins:
           build: true
           nav_translations:
             ホーム: Home
-            コントリビュート: Contribute
             モジュール: Modules
+            コントリビュート: Contribute
             ライセンス: License
