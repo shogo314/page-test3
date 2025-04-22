@@ -18,7 +18,6 @@ extra:
 
 nav:
   - ホーム: index.md
-  - コントリビュート: contribute.md
   - モジュール:
     - convolution: modules/convolution.md
     - dsu: modules/dsu.md
@@ -33,6 +32,13 @@ nav:
     - scc: modules/scc.md
     - segtree: modules/segtree.md
     - string: modules/string.md
+    - py:
+      - bisect: modules/py/bisect.md
+      - heapq: modules/py/heapq.md
+      - itertools: modules/py/itertools.md
+      - math: modules/py/math.md
+      - operator: modules/py/operator.md
+      - string: modules/py/string.md
     - ext:
       - affine: modules/ext/affine.md
       - avltree: modules/ext/avltree.md
@@ -43,13 +49,7 @@ nav:
       - potentialized_unionfind: modules/ext/potentialized_unionfind.md
       - priority_queue: modules/ext/priority_queue.md
       - string: modules/ext/string.md
-    - py:
-      - bisect: modules/py/bisect.md
-      - heapq: modules/py/heapq.md
-      - itertools: modules/py/itertools.md
-      - math: modules/py/math.md
-      - operator: modules/py/operator.md
-      - string: modules/py/string.md
+  - コントリビュート: contribute.md
   - ライセンス: license.md
 plugins:
   - search:
